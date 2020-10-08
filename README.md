@@ -1,6 +1,6 @@
 # TrafficSimulator
 
-Traffic Simulator is my Object Oriented Programming course project. It is developed with C++ using SFML library. Development process is explained in [documents](docs)
+Traffic Simulator is my Object Oriented Programming course project. Written in C++ using SFML library. Development process is explained in [documents](docs)
 
 <p align="center">
   <img src="images/simulator.gif" />
